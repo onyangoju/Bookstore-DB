@@ -8,10 +8,10 @@ Tools and Technologies
 2. Draw.io - For visualizing the database schema and 
 relationships
 
-Project Objective
+Project Objective: 
 Our goal was to build a relational database that stored information about the bookstore's operations, including books, authors, customers, orders, shipping, and more. We created a database that efficiently stored all necessary data and allowed for quick retrieval and analysis.
 
-Step-by-Step Instructions 
+Step-by-Step Instructions:  
 1. Create a new database to store bookstore data. 
 2. Determine the table schema and data types 
 3. Write the SQL commands to create tables that match the 
@@ -21,7 +21,7 @@ database
 5. Test the database by running queries to retrieve and analyze 
 the data
 
-Expected Outcomes
+Expected Outcomes: 
 By completing this SQL project, we gained practical experience and valuable, transferable skills, including:
 ● Designing and implementing a MySQL database for a 
 real-world use case 
